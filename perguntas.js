@@ -26,7 +26,8 @@ criaCartao(
     criaCartao(
     'biologia',
     'quais são os macronutrientes mais importantes?',
-    proteina, carboidratos e lipídios')
+    proteina, carboidratos e lipídios'
+    )
     
     criaCartao(
     'quimica',
@@ -66,7 +67,7 @@ criaCartao(
     criaCartao(
     'matematica',
     'quanto é 25% de 10000?',
-    '2500'),
+    '2500')
     
     criaCartao(
     'historia',
