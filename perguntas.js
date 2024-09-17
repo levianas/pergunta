@@ -5,7 +5,7 @@ criaCartao(
     F=M*A').
     
     criaCartão(
-    'física’,
+    'física',
     'como se calcula a pressão?',
     'utiliza a formula:
     P=F/A').
