@@ -1,4 +1,17 @@
 :root{
     --caixa-cor-frente: #5f1dc2;
     --caixa-cor-verso: #ba1dc2;
+    --fundo: #F8F8FF;
+    --preto: #000000;   
+    --branco: #fffff0;
+    --cor-texto-destaque: #FFE4B5;
+}
+
+body{
+    background-color: var(--fundo);
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
 }
