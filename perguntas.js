@@ -10,7 +10,7 @@ criaCartao(
     
     criaCartao(
     'história',
-    'em que ano começou a primeira guerra mundial?'
+    'em que ano começou a primeira guerra mundial?',
     'em 1945')
     
     criaCartao(
