@@ -3,7 +3,7 @@ criaCartao(
     'como se calcula a força?',
     'F=M*A')
     
-    criaCartão(
+    criaCartao(
     'física',
     'como se calcula a pressão?',
     'P=F/A')
